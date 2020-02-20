@@ -7,7 +7,7 @@ function About() {
   return (
     <div>
       <Hero backgroundImage="./jedimages/IMG_0253.jpeg">
-        <h1>Mike Jedrzejewskir</h1>
+        <h1>Mike Jedrzejewski</h1>
         <h2>A Old BOLD Coder</h2>
       </Hero>
       <Container style={{ marginTop: 30 }}>
