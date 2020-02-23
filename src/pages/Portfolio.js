@@ -57,11 +57,11 @@ function Portfolio () {
         <div className="card ">
                     <img src="./jedimages/DSC01109.jpg " className="card-img-top " alt="... "/>
                     <div className="card-body ">
-                        <h5 className="card-title ">Amoas</h5>
-                        <p className="card-text ">A good Boy.</p>
+                        <h5 className="card-title ">Friend Finder App</h5>
+                        <p className="card-text ">A good Boy, My Best Friend</p>
                     </div>
                     <div className="card-footer ">
-                        <a href="https://github.com/jedmike/UCF-homework-week10/blob/master/images/Screen%20Shot%202019-12-29%20at%205.44.17%20PM.png " className="btn btn-secondary ">Application Link</a>
+                        <a href="https://jedreactprofile.herokuapp.com/ " className="btn btn-secondary ">Application Link</a>
                         <small className="text-muted ">Link Title </small>
                     </div>
         </div>
