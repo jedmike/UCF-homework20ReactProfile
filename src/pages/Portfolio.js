@@ -51,7 +51,7 @@ function Portfolio () {
                     <p className="card-text ">An App to locate barber shops near your location</p>
                 </div>
                 <div className="card-footer ">
-                    <a href="hhttps://github.com/jedmike/UCF-homework-week10" className="btn btn-secondary ">Application Link</a>
+                    <a href="https://github.com/jedmike/UCF-homework-week10" className="btn btn-secondary ">Application Link</a>
                     <small className="text-muted ">Barber Stop: Barber locater</small>
                 </div>
             </div>
@@ -62,7 +62,7 @@ function Portfolio () {
                         <p className="card-text ">A good Boy, My Best Friend</p>
                     </div>
                     <div className="card-footer ">
-                        <a href="https://jedreactprofile.herokuapp.com/ " className="btn btn-secondary ">Application Link</a>
+                        <a href="https://friendfinderjed.herokuapp.com/ " className="btn btn-secondary ">Application Link</a>
                         <small className="text-muted ">Link Title </small>
                     </div>
         </div>
