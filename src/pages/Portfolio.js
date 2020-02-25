@@ -67,10 +67,10 @@ function Portfolio () {
                     </div>
         </div>
                 <div className="card ">
-                    <img src="https://www.nicepng.com/png/detail/274-2740701_free-airplane-transparent-background-plane-png.png", className="card-img-top " alt="... "/>
+                    <img src="https://www.nicepng.com/png/detail/274-2740701_free-airplane-transparent-background-plane-png.png" className="card-img-top " alt="... "/>
                     <div className="card-body ">
                         <h5 className="card-title ">Clicky Game</h5>
-                        <p className="card-text ">A Good Girl.</p>
+                        <p className="card-text ">A Plane Game.</p>
                     </div>
                     <div className="card-footer ">
                         <a href="https://clickygamejed.herokuapp.com/" className="btn btn-secondary ">Application Link</a>
